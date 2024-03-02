@@ -37,3 +37,6 @@ weather-analysis/
 ├── README.md                # README file describing the project and its components
 └── requirements.txt         # Python dependencies file (alternative to environment.yml)
 ```
+
+## Model Saving Script
+I create a script within the modeling/ directory that defines the model, trains it, and then saves it to the /models folder. I execute the train_model.py script to train your model and save it. 
