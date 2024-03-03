@@ -17,8 +17,10 @@ Here, The Weather Dataset is a time series data set with per hour information ab
 - **msl**: Mean Sea Level Pressure (hPa)
 - **wdsp**: Mean Wind Speed (kt)
 - **wddir**: Predominant Wind Direction (deg)
+- **weather_condition**: description of condition about that hour(Rainy - 1, Foggy - 2, Humid - 3, Windy - 4, Snowy - 5, Stormy - 6, Clear - 7)
 
 ## Project Structure
+
 ```
 weather-analysis/
 ├── data/
@@ -39,4 +41,5 @@ weather-analysis/
 ```
 
 ## Model Saving Script
+
 I create a script within the modeling/ directory that defines the model, trains it, and then saves it to the /models folder. I execute the train_model.py script to train your model and save it. 
