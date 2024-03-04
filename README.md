@@ -17,7 +17,7 @@ Here, The Weather Dataset is a time series data set with per hour information ab
 - **msl**: Mean Sea Level Pressure (hPa)
 - **wdsp**: Mean Wind Speed (kt)
 - **wddir**: Predominant Wind Direction (deg)
-- **weather_condition**: description of condition about that hour(Rainy - 1, Foggy - 2, Humid - 3, Windy - 4, Snowy - 5, Stormy - 6, Clear - 7)
+- **weather_condition**: description of condition about that hour (Rainy - 1, Foggy - 2, Humid - 3, Windy - 4, Snowy - 5, Stormy - 6, Clear - 7)
 
 ## Project Structure
 
